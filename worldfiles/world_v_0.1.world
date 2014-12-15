@@ -1,0 +1,15 @@
+define rosbot position
+(
+ size [.5 .5 .5]
+ color "green"
+)
+
+window
+(
+ size [750 500] 
+)
+
+rosbot
+(
+ pose [0 0 0 0]
+)
